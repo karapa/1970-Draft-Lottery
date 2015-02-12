@@ -1,20 +1,18 @@
 # 1970-Draft-Lottery
 
-Introduction 
-On I July 1970, the Selective Service System conducted a draft lottery to establish the order in which men born , in 1951 are to be called for induction during 1971.
+##Introduction 
+On 1 July 1970, the Selective Service System conducted a draft lottery to establish the order in which men born, in 1951 are to be called for induction during 1971. Details on the procedure followed can be found in Fienberg, 1971.
 
-" The new draft lottery is being challenged by statisticians and politicians on the ground that the selection process did not produce a truly random result." (New York Times, 1970)
+This lottery was a source of considerable discussion before being held on December 1, 1969. Soon afterwards a pattern of unfairness in the results led to further publicity: those with birthdates later in the year seemed to have had more than their share of low lottery numbers and hence were more likely to be drafted. On January 4, 1970, the New York Times ran a long article, "Statisticians Charge Draft Lottery Was Not Random," illustrated with a bar chart of the monthly averages (Rosenbaum 1970a).It was reported that "The new draft lottery is being challenged by statisticians and politicians on the ground that the selection process did not produce a truly random result." (New York Times, 1970. 
 
-There is suspicion that the drawing was notdone correctly. Men that were born in the last months of the year seem to have a higherchance of being called earlier.
+Several methods of analyzing these data -- which were of life-and-death importance to those concerned -- exist.I conducted a non parametric analysis in order to adress the issue. 
 
-conduct a non parametric analysis in order to adress the claim. 
-
-From the following plot we can see that the December birthdays (far right) were assigned many low draft numbers (bottom), representing early induction, and few high numbers (top).
+##Data Analysis
+Starting with same exploratory graphs we can see that the December birthdays (far right) were assigned many low draft numbers (bottom), representing early induction, and few high numbers (top).
 
 ![alt tag] (https://github.com/karapa/1970-Draft-Lottery/blob/master/scatterplot.png)
 
-
-The same conclusion is drawn from the following graph. Again, there seems to be a lot fewer high numbers in the later months of the year and a lot fewer low numbers in the earlier months. This ca be interpreted as men that were born in the last months of the year seem to have a higher chance of being called earlier.
+The same conclusion is drawn from the following graph. Again, there seems to be a lot fewer high numbers in the later months of the year and a lot fewer low numbers in the earlier months. This can be interpreted as men that were born in the last months of the year seem to had a higher chance of being called earlier.
 
 put boxplot!!!! 
 
