@@ -5,7 +5,7 @@ On 1 July 1970, the Selective Service System conducted a draft lottery to establ
 
 This lottery was a source of considerable discussion before being held on December 1, 1969. Soon afterwards a pattern of unfairness in the results led to further publicity: those with birthdates later in the year seemed to have had more than their share of low lottery numbers and hence were more likely to be drafted. On January 4, 1970, the New York Times ran a long article, "Statisticians Charge Draft Lottery Was Not Random," illustrated with a bar chart of the monthly averages.It was reported that "The new draft lottery is being challenged by statisticians and politicians on the ground that the selection process did not produce a truly random result." (Rosenbaum 1970).
 
-Several methods of analyzing these data -- which were of life-and-death importance to those concerned -- exist.I conducted a non parametric analysis in order to adress the issue. 
+Several methods of analyzing these data -- which were of life-and-death importance to those concerned -- exist. I conducted a non parametric analysis in order to address the issue. 
 
 ##Data Analysis
 Starting with same exploratory graphs we can see that the December birthdays (far right) were assigned many low draft numbers (bottom), representing early induction, and few high numbers (top).
@@ -48,9 +48,9 @@ The model with the smallest AICc is quadratic with span=0.89. It is plotted in t
 
 ![alt tag] (https://github.com/karapa/1970-Draft-Lottery/blob/master/AICp.png)
 
-
 To conclude, we have substantial evidence to support our initial suspicion that there were more low lottery
 numbers in the later months of the year. We conclude that men that were born in the last months of the year had a higher chance be drafted sooner and consequently of being called earlier to perform their military duty.
+
 
 More information about the 1970 Lottery can be obtained form: 
 - http://en.wikipedia.org/wiki/Draft_lottery_(1969)
