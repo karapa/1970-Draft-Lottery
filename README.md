@@ -1,5 +1,13 @@
 # 1970-Draft-Lottery
 
+Introduction 
+On I July 1970, the Selective Service System conducted a draft lottery to establish the order in which men born , in 1951 are to be called for induction during 1971.
+
+" The new draft lottery is being challenged by statisticians and politicians on the ground that the selection process did not produce a truly random result." (New York Times, 1970)
+
+There is suspicion that the drawing was notdone correctly. Men that were born in the last months of the year seem to have a higherchance of being called earlier.
+
+conduct a non parametric analysis in order to adress the claim. 
 
 From the following plot we can see that the December birthdays (far right) were assigned many low draft numbers (bottom), representing early induction, and few high numbers (top).
 
@@ -46,3 +54,5 @@ To conclude, we have substantial evidence to support our initial suspicion that 
 numbers in the later months of the year. With 95% confidence we conclude that men that were born in the
 last months of the year had a higher chance be drafted sooner and consequently of being called earlier to
 perform their military duty.
+
+More information about the 1970 Lottery can be obtained form: 
