@@ -16,7 +16,7 @@ plot1+ geom_point (shape=1) +ggtitle("Scatterplot of the days of the year\n and 
 #create a new column in order to plot the months chronoloically 
 months<-factor(Month, levels=Month)
 
-#boxplot of Day of Year vs Draft by Month     ##show the mean in the boxs!!!!!!
+#boxplot of Day of Year vs Draft by Month    
 plot2<-ggplot(mydata, aes(x=months, Draft_No.), y=Draft_No.) + geom_boxplot()
 + ggtitle("Boxplots of the months and their lottery(draft) number")
 + scale_x_discrete (name = "Month of year (Jan-Dec)")
