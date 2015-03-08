@@ -57,3 +57,4 @@ More information about the 1970 Lottery can be obtained form:
 - Rosenbaum, David E. (4 January 1970). "Statisticians Charge Draft Lottery Was Not Random". New York Times. p. 66.
 - Norton Starr (1997). "Nonrandom Risk: The 1970 Draft Lottery". Journal of Statistics Education 5.2 (1997). Confirmed 2011-05-26.
 - Fienberg, S. E. (1971). "Randomization and Social Affairs: The 1970 Draft Lottery". Science 171 (3968): 255–261. doi:10.1126/science.171.3968.255.
+- Hurvich C, Simonoff J, Smoothing parameter selection in nonparametric regression using an improvedAkaike information criterion, J. R. Statist. Soc. B (1998), Part 2, pp. 271-293
